@@ -8,4 +8,4 @@ A simple personal portfolio built using Flask, HTML, and CSS.
 ```bash
 python app.py
 
-output:-
+
