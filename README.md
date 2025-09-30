@@ -7,3 +7,5 @@ A simple personal portfolio built using Flask, HTML, and CSS.
 ## How to Run
 ```bash
 python app.py
+
+output:-
